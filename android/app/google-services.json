@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837733470532",
+    "project_id": "casa-7bac9",
+    "storage_bucket": "casa-7bac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837733470532:android:a9bd1d8d763f8434594711",
+        "android_client_info": {
+          "package_name": "com.casa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837733470532-50pu9528gv8obd2gngko4g0eib2ign44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHFDnCEQGzgpvKQpaRqbzHc8VRE6bGQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837733470532-50pu9528gv8obd2gngko4g0eib2ign44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
